@@ -1,6 +1,3 @@
-Submitters:
-1. Amit Levy 207521170
-2. Salit Avramovich 207007600
-
-Bonus addition: colors
-file validation check
+#Pacman game
+In this game I implemented the Pacman game in the C++ language.
+In the file "Pacman_excerise_instructions.pdf" the working instructions are attached.
