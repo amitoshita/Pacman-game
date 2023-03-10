@@ -1,0 +1,3 @@
+died 1 73
+died 2 131
+died 3 251
